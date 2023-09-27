@@ -1,7 +1,7 @@
 ## Olá sou o Jhonata Williams
 
 * ⚙️  Cursando Sistemas de informação UFRA
-* ⚙️  Cursando Desenvolvimento de Sistemas IFSul de minas
+* ⚙️  Formado em Desenvolvimento de Sistemas IFSul de minas
 
 - 💬 À parte isso, tenho em mim todos os sonhos do mundo
 
